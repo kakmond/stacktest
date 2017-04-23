@@ -1,4 +1,4 @@
-package ku.util.test;
+package test;
 
 import static org.junit.Assert.*;
 import org.junit.Assume;
